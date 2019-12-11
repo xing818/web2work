@@ -87,4 +87,5 @@ ul,li{
 }
 .nav .active{
 	background-color: red;
+	color: white;
 }
