@@ -31,6 +31,7 @@ ul,li{
 #img{
 	position: absolute;
 	left: 30px;
+	top:2px;
 }
 .box{
 	width: 1200px;
